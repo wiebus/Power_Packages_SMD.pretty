@@ -57,7 +57,7 @@
   (pad 7 smd rect (at 0 -0.2 90) (size 0.6 0.9) (layers F.Paste))
   (model Power_Packages_SMD/SOT-669_LFPAK.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
