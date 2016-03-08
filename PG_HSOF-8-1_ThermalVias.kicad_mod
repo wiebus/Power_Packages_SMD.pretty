@@ -1,4 +1,4 @@
-(module PG_HSOF-8-1_ThermalVias (layer F.Cu) (tedit 56DE0786)
+(module PG_HSOF-8-1_ThermalVias (layer F.Cu) (tedit 56DE400A)
   (descr http://www.infineon.com/cms/packages/SMD_-_Surface_Mounted_Devices/P-PG-HSOF/P-PG-HSOF-08-1.html)
   (tags "HSOF Power MOSFET")
   (attr smd)
@@ -37,7 +37,6 @@
     (solder_paste_margin -0.1))
   (pad 1 smd rect (at -4.2 3.9) (size 0.75 2.8) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin -0.1))
-  (pad "" smd rect (at 0.6 2.9) (size 8 0.8) (layers F.Cu F.Mask))
   (pad 9 thru_hole circle (at -3 -1.02) (size 1 1) (drill 0.5) (layers *.Cu *.Mask F.Paste))
   (pad 9 thru_hole circle (at -1.8 -1.02) (size 1 1) (drill 0.5) (layers *.Cu *.Mask F.Paste))
   (pad 9 thru_hole circle (at -0.6 -1.02) (size 1 1) (drill 0.5) (layers *.Cu *.Mask F.Paste))
